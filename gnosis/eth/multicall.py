@@ -53,6 +53,7 @@ class Multicall:
         EthereumNetwork.KCC_MAINNET: "0x7C1C85C39d3D6b6ecB811dfe949B9C23f6E818B0",
         EthereumNetwork.KCC_TESTNET: "0x665683D9bd41C09cF38c3956c926D9924F1ADa97",
         EthereumNetwork.POLYGON_ZKEVM: "0xcA11bde05977b3631167028862bE2a173976CA11",
+        EthereumNetwork.DARWINIA_NETWORK: "0xcA11bde05977b3631167028862bE2a173976CA11",
     }
 
     def __init__(
